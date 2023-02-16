@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    font-size: larger;
+   
+}
+body {
+    color: brown;
+    font-style: initial;
+    font-size: x-large;
+    background-color: aqua;
+}
+
+.font-color-blue{
+    color: brown;
+}
