@@ -4,12 +4,13 @@ h1 {
    
 }
 body {
-    color: brown;
+    color: rgb(116, 42, 165);
     font-style: initial;
     font-size: x-large;
-    background-color: aqua;
+    background-color: rgb(27, 39, 39);
 }
 
 .font-color-blue{
-    color: brown;
+    color: rgb(165, 42, 99);
+    
 }
